@@ -8,6 +8,6 @@ class Person:
         print(f"Hello, my name is {self.name}. I am {self.age} years old and I am {self.gender}.")
 
 
-person1 = Person("Tony Stark", 45, "male")
+person1 = Person("Ogeto Ray", 45, "male")
 
 person1.introduce()
